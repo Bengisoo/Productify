@@ -1,0 +1,15 @@
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\bin\Debug\net7.0\ReProductify.Persistence.deps.json
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\bin\Debug\net7.0\ReProductify.Persistence.dll
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\bin\Debug\net7.0\ReProductify.Persistence.pdb
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\bin\Debug\net7.0\ReProductify.Domain.dll
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\bin\Debug\net7.0\ReProductify.Domain.pdb
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\obj\Debug\net7.0\ReProductify.Persistence.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\obj\Debug\net7.0\ReProductify.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\obj\Debug\net7.0\ReProductify.Persistence.AssemblyInfoInputs.cache
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\obj\Debug\net7.0\ReProductify.Persistence.AssemblyInfo.cs
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\obj\Debug\net7.0\ReProductify.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\obj\Debug\net7.0\ReProductify.Persistence.csproj.CopyComplete
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\obj\Debug\net7.0\ReProductify.Persistence.dll
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\obj\Debug\net7.0\refint\ReProductify.Persistence.dll
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\obj\Debug\net7.0\ReProductify.Persistence.pdb
+C:\Users\zehra\source\repos\ReProductify\Infrastructure\ReProductify.Persistence\obj\Debug\net7.0\ref\ReProductify.Persistence.dll

@@ -1,0 +1,11 @@
+C:\Users\zehra\source\repos\ReProductify\Core\ReProductify.Domain\bin\Debug\net7.0\ReProductify.Domain.deps.json
+C:\Users\zehra\source\repos\ReProductify\Core\ReProductify.Domain\bin\Debug\net7.0\ReProductify.Domain.dll
+C:\Users\zehra\source\repos\ReProductify\Core\ReProductify.Domain\bin\Debug\net7.0\ReProductify.Domain.pdb
+C:\Users\zehra\source\repos\ReProductify\Core\ReProductify.Domain\obj\Debug\net7.0\ReProductify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zehra\source\repos\ReProductify\Core\ReProductify.Domain\obj\Debug\net7.0\ReProductify.Domain.AssemblyInfoInputs.cache
+C:\Users\zehra\source\repos\ReProductify\Core\ReProductify.Domain\obj\Debug\net7.0\ReProductify.Domain.AssemblyInfo.cs
+C:\Users\zehra\source\repos\ReProductify\Core\ReProductify.Domain\obj\Debug\net7.0\ReProductify.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\ReProductify\Core\ReProductify.Domain\obj\Debug\net7.0\ReProductify.Domain.dll
+C:\Users\zehra\source\repos\ReProductify\Core\ReProductify.Domain\obj\Debug\net7.0\refint\ReProductify.Domain.dll
+C:\Users\zehra\source\repos\ReProductify\Core\ReProductify.Domain\obj\Debug\net7.0\ReProductify.Domain.pdb
+C:\Users\zehra\source\repos\ReProductify\Core\ReProductify.Domain\obj\Debug\net7.0\ref\ReProductify.Domain.dll
